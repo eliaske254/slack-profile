@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  slackUsername: MyString
+  age: 1
+  backend: false
+  bio: MyString
+
+two:
+  slackUsername: MyString
+  age: 1
+  backend: false
+  bio: MyString
